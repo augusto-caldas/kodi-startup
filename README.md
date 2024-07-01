@@ -1,1 +1,1 @@
-Digipark script to bypass bios startup<br>Awaits 15 seconds bliking LEDs and send (f1) key command after wait.
+<h3>Digipark script to bypass bios startup</h3><br>Awaits 15 seconds bliking LEDs and send (F1) key command after wait.
